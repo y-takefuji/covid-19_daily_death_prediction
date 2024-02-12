@@ -52,17 +52,17 @@ $ deathdaily Japan 200 11
 
 country="Japan", days=200, degree=11
 
-<img src="https://github.com/ytakefuji/covid-19_daily_death_prediction/raw/main/Japan.png" width=320 height=240 >
+<img src="https://github.com/y-takefuji/covid-19_daily_death_prediction/raw/main/Japan.png" width=320 height=240 >
 
 
 $ deathdaily 'United States' 200 11
 
-<img src="https://github.com/ytakefuji/covid-19_daily_death_prediction/raw/main/United States.png" width=320 height=240 >
+<img src="https://github.com/y-takefuji/covid-19_daily_death_prediction/raw/main/United States.png" width=320 height=240 >
 
 $ deathdaily Israel 200 9
 
-<img src="https://github.com/ytakefuji/covid-19_daily_death_prediction/raw/main/Israel.png" width=320 height=240 >
+<img src="https://github.com/y-takefuji/covid-19_daily_death_prediction/raw/main/Israel.png" width=320 height=240 >
 
 $ deathdaily 'United Kingdom' 100 11
 
-<img src="https://github.com/ytakefuji/covid-19_daily_death_prediction/raw/main/United Kingdom.png" width=320 height=240 >
+<img src="https://github.com/y-takefuji/covid-19_daily_death_prediction/raw/main/United Kingdom.png" width=320 height=240 >
